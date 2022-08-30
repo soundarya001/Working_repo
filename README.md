@@ -18,4 +18,5 @@ DAY 6: a.DevOps
        c. Task to setup github
 DAY 7: Updates status of installation
        SUCCESFULLY COMPLETED
+DAY 8:        
 test_demo
