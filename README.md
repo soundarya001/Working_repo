@@ -16,7 +16,7 @@ DAY 6: a.DevOps
        b.Git - purpose 
                gitbash and its command
        c. Task to setup github
-DAY 7: Updates status of installation
+DAY 7: Updates status of gitbash installation
        SUCCESFULLY COMPLETED
 DAY 8:        
 test_demo
