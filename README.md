@@ -16,5 +16,5 @@ DAY 6: a.DevOps
        b.Git - purpose 
                gitbash and its command
        c. Task to setup github
-DAY 7: Updates status of gitbash installation and setup
-DAY 8: 
+DAY 7: Update of gitbash installation and setup
+DAY 8: Cloud concepts 
