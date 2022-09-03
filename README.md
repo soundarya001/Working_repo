@@ -18,6 +18,6 @@ DAY 6: a.DevOps
        c. Task to setup github
 DAY 7: Updates status of gitbash installation and setup
        SUCCESFULLY COMPLETED
-DAY 8: Cloud introduction
+DAY 8: Cloud concepts introduction
 
 # Working_repo
